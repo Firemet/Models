@@ -1,5 +1,5 @@
 {
-  label = "Хацуне Мику ",
+  label = "РҐР°С†СѓРЅРµ РњРёРєСѓ",
   tooltip = "by Firemet",
   shapes = {
     { 2,0,15,16,1,16,texture = "iron_block", tint = 0x33ccff },
@@ -85,7 +85,7 @@
 },
 
 {
-  label = "Хацуне Мику ",
+  label = "РҐР°С†СѓРЅРµ РњРёРєСѓ",
   tooltip = "by Firemet",
   shapes = {
     { 0,0,1,8,1,7,texture = "iron_block", tint = 0x33ccff },
@@ -158,7 +158,7 @@
 },
 
 {
-  label = "Хацуне Мику ",
+  label = "РҐР°С†СѓРЅРµ РњРёРєСѓ",
   tooltip = "by Firemet",
   shapes = {
     { 5,0,15,7,1,16,texture = "iron_block", tint = 0x33ccff },
@@ -182,7 +182,7 @@
 },
 
 {
-  label = "Хацуне Мику ",
+  label = "РҐР°С†СѓРЅРµ РњРёРєСѓ",
   tooltip = "by Firemet",
   shapes = {
     { 5,0,0,6,1,4,texture = "iron_block", tint = 0x33ccff },
@@ -209,7 +209,7 @@
 },
 
 {
-  label = "Хацуне Мику ",
+  label = "РҐР°С†СѓРЅРµ РњРёРєСѓ",
   tooltip = "by Firemet",
   shapes = {
     { 0,0,11,4,1,16,texture = "iron_block", tint = 0x33ccff },
@@ -294,7 +294,7 @@
 },
 
 {
-  label = "Хацуне Мику ",
+  label = "РҐР°С†СѓРЅРµ РњРёРєСѓ",
   tooltip = "by Firemet",
   shapes = {
     { 0,0,0,14,1,2,texture = "iron_block", tint = 0x33ccff },
@@ -358,7 +358,7 @@
 },
 
 {
-  label = "Хацуне Мику ",
+  label = "РҐР°С†СѓРЅРµ РњРёРєСѓ",
   tooltip = "by Firemet",
   shapes = {
     { 0,0,10,7,3,11,texture = "iron_block", tint = 0x33ccff },
@@ -383,7 +383,7 @@
 },
 
 {
-  label = "Хацуне Мику ",
+  label = "РҐР°С†СѓРЅРµ РњРёРєСѓ",
   tooltip = "by Firemet",
   shapes = {
     { 0,0,3,6,3,4,texture = "iron_block", tint = 0x33ccff },
